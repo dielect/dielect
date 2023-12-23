@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hi, I'm a seasoned Java Engineer with a flair for Python and Golang. Currently innovating in China's vibrant tech landscape, I'm dedicated to crafting robust software solutions.
 
-<!--
-**dielect/dielect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Expertise:**
+- 🌐 Experienced in Java, with a side interest in Python and Golang.
+- 💻 Working in China's dynamic tech industry.
+- 🛠️ Passionate about creating well-architected and meaningful software.
 
-Here are some ideas to get you started:
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 any freelance work? do reach, [email](mailto:dielectric.army@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**Languages and Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+
