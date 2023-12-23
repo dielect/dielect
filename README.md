@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:dielectric.army@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**Languages and Tools:**
+**Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
@@ -18,6 +18,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **🖥️ Open-Source Projects**
 
 All open-source repo orted by stars. [here](https://github.com/dielect?tab=repositories&q=&type=source&language=&sort=stargazers)
+
+🥺 if you like what i do, maybe consider buying me a coffee/tea  👉 [here](https://www.buymeacoffee.com/dielect) 👈
 
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
