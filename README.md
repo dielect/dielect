@@ -30,9 +30,9 @@ All open-source repo orted by stars. [here](https://github.com/dielect?tab=repos
                 <p align="center">
                     <a href="https://github.com/dielect"><img alt="dielect" src="img/IMG_2088.JPG" width="640" height="100%" title="dielect"></a>
                 </p>
-                <p>I can die, but romance never dies.</p>
+                <p></p>
                 <blockquote>
-                  <p>天空是蔚蓝色，窗外有千纸鹤 <br><sub>The sky is a deep blue, and outside the window, there are origami cranes. </sub></p>
+                  <p>空は蔚蓝色で、窓の外には折り鶴があります <br><sub>The sky is a deep blue, and outside the window, there are origami cranes. </sub></p>
                 </blockquote>
                 <p align="right"></p>
             </div>
