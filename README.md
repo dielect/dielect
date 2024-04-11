@@ -10,15 +10,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:dielectric.army@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**Languages:**
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-
-
-
 **🖥️ Open-Source Projects**
 
 All open-source repo orted by stars. [here](https://github.com/dielect?tab=repositories&q=&type=source&language=&sort=stargazers)
