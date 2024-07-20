@@ -1,7 +1,7 @@
-👋 Hi, I'm a seasoned Java Engineer with a flair for Python and Golang. Currently innovating in China's vibrant tech landscape, I'm dedicated to crafting robust software solutions.
+👋 Hi, I'm a seasoned Java Engineer with a flair for Python and Node. Currently innovating in China's vibrant tech landscape, I'm dedicated to crafting robust software solutions.
 
 **My Expertise:**
-- 🌐 Experienced in Java, with a side interest in Python and Golang.
+- 🌐 Experienced in Java, with a side interest in Python and Node.
 - 💻 Working in China's dynamic tech industry.
 - 🛠️ Passionate about creating well-architected and meaningful software.
 
