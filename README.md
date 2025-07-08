@@ -26,9 +26,9 @@ All open-source repo orted by stars. [here](https://github.com/dielect?tab=repos
                     <a href="https://github.com/dielect"><img alt="dielect" src="img/IMG_2088.JPG" width="100%"  title="dielect"></a>
                 </p>
                 <p></p>
-                <blockquote>
-                  <p>空は蔚蓝色で、窓の外には折り鶴があります <br><sub>The sky is a deep blue, and outside the window, there are origami cranes. </sub></p>
-                </blockquote>
+                <p align="center">
+  空は蔚蓝色で、窓の外には折り鶴があります <br><sub>The sky is a deep blue, and outside the window, there are origami cranes. </sub>
+</p>
                 <p align="right"></p>
             </div>
         </td>
